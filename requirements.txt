@@ -1,0 +1,11 @@
+concurrent.futures
+functools32; python_version < "3.2"
+requests
+pandas
+numpy
+torch>=1.7.1
+torchvision>=0.8.2
+transformers
+ta
+python-binance
+scikit-learn
