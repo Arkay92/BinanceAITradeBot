@@ -5,7 +5,7 @@ Binance AI Trade Bot is an advanced automated trading system designed for the Bi
 
 ## Features
 - Real-time cryptocurrency price prediction using a hybrid CNN-LSTM model.
-- Sentiment analysis from textual data to influence trading decisions.
+- Sentiment analysis from textual data inputs that can be merged with API data to influence trading decisions.
 - Automated trading on the Binance platform with configurable risk management settings.
 - Detailed logging and performance tracking.
 
